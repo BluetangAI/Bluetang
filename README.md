@@ -1,6 +1,6 @@
-# Bluetang.AI - Game Agent Framework (Python)
+# Bluetang - Game Agent Framework (Python)
 
-[![](https://img.shields.io/badge/project-website-brightgreen.svg?colorB=1bcc6f&longCache=true)](https://Bluetang.ai)  
+[![](https://img.shields.io/badge/project-website-brightgreen.svg?colorB=1bcc6f&longCache=true)](https://Bluetang.xyz)  
 [![](https://img.shields.io/badge/pypi-v2024.11.2-brightgreen.svg?colorB=007ec6&longCache=true)]()
 [![](https://img.shields.io/badge/python-3.6-brightgreen.svg?colorB=007ec6&longCache=true)]()
 [![](https://img.shields.io/badge/license-MIT-brightgreen.svg?colorB=007ec6&longCache=true)]()  
@@ -43,4 +43,4 @@ In summary, **Bluetang’s integration with Deepseek** leverages AI to create a 
 
 Guides, tutorials and videos are being produced and added to the [GitHub Wiki](https://github.com/BluetangAI/BluetangAI/wiki). It currently is the official source of documentation.
 
-_Business Contact: info@bluetang.ai_
+_Business Contact: info@Bluetang.xyz_
