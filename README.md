@@ -41,6 +41,6 @@ Overall, the objective aims to create a highly adaptable system that optimizes g
 
 ## Documentation
 
-Guides, tutorials and videos are being produced and added to the [Documentation](https:/docs.bluetang.xyz). It currently is the official source of documentation.
+The only official documentation source is [here](https:/docs.bluetang.xyz).
 
 _Business Contact: info@Bluetang.xyz_
